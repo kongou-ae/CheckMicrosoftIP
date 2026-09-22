@@ -2,6 +2,7 @@
 name: microsoft-ip-usage-lookup
 description: "Use when identifying what Microsoft usage an IP address or CIDR belongs to, including Azure service tags, Azure PowerShell BGP communities, ExpressRoute, or Microsoft 365 JSON endpoints."
 argument-hint: "Enter an IPv4 or IPv6 address, optionally with an Azure location/cloud or Microsoft 365 instance."
+license: MIT
 ---
 
 # Microsoft IP Intelligence
